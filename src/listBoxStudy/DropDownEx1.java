@@ -21,10 +21,10 @@ public class DropDownEx1 {
 		
 		driver.findElement(By.xpath("(//a[@role='button'])[2]")).click();
 		Thread.sleep(1000);
-
-		 
 		
 		//System.out.println(female);
+		
+		//facebook manage page code
 	}
 
 }
